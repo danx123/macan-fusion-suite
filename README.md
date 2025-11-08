@@ -13,7 +13,8 @@ Designed with performance, stability, and modularity in mind, each component in 
 ---
 
 ## 📸 Screenshot
-<img width="2048" height="2665" alt="macan-fusion-suite" src="https://github.com/user-attachments/assets/7aaa864e-d980-475c-8720-4a1888e61346" />
+<img width="2048" height="2665" alt="macan-fusion-suite" src="https://github.com/user-attachments/assets/ea7aceac-0b54-474c-ad57-4d2003372c98" />
+
 
 ---
 
