@@ -13,9 +13,30 @@ Designed with performance, stability, and modularity in mind, each component in 
 ---
 
 ## 📸 Screenshot
-<img width="2048" height="2665" alt="macan-fusion-suite" src="https://github.com/user-attachments/assets/ea7aceac-0b54-474c-ad57-4d2003372c98" />
+<img width="2048" height="2665" alt="macan-fusion-suite" src="https://github.com/user-attachments/assets/f5d9bb00-2967-42f8-99b8-15e7e82c370e" />
+---
+## Changelog v2.2.0
+1. Macan Converter Pro v3.3.0 - 4.0.0
+   This release introduces a major user experience overhaul, focusing on a more intuitive and modern file-handling workflow.
 
-
+🚀 Added
+Drag-and-Drop File Input: Implemented a new interactive FileDropArea widget for the Video, Audio, Image, and Extract Audio tabs.
+Asynchronous Thumbnail Generation: Files dropped into the new area will now display thumbnails. A ThumbnailWorker running on a QThreadPool generates these in the background to prevent UI freezing.
+Uses opencv-python for video frame extraction.
+Uses QPixmap for image previews.
+Displays default file-type icons for audio.
+New File Management Buttons: Added "Add Files" and "Clear List" buttons to complement the new drag-and-drop functionality.
+🔄 Changed
+UI Overhaul: Fundamentally redesigned the layout for the Video, Audio, Image, and Extract Audio tabs to accommodate the new file list.
+Unified Workflow: Refactored the conversion logic for media tabs to be "batch-by-default." All files in the list are processed as a batch, whether there is one file or one hundred.
+❌ Removed
+"Batch Mode" Checkbox: This option has been removed as the new drag-and-drop interface is inherently a batch-processing system, simplifying the UI.
+Static Input Fields: Removed the QLineEdit fields for single-file inputs on media tabs.
+🛠️ Fixed
+Worker Thread Memory Leak: Corrected a potential memory leak by ensuring all QObject workers (e.g., VideoConversionWorker) are properly deleted using deleteLater() after their thread has finished.
+📦 Dependencies
+Added opencv-python as a new dependency for video thumbnail generation.
+Added numpy as a dependency for opencv-python.
 ---
 
 
