@@ -15,9 +15,12 @@ Designed with performance, stability, and modularity in mind, each component in 
 ## 📸 Screenshot
 <img width="2048" height="2665" alt="macan-fusion-suite" src="https://github.com/user-attachments/assets/f5d9bb00-2967-42f8-99b8-15e7e82c370e" />
 ---
-## Changelog v2.5.0
-1. Macan VLC v3.6.1 - 4.0.0
-- Changed control icon from qtawesome to svg xml
+## Changelog v2.6.0
+1. Macan Conquer v3.8.0 - 4.2.0
+- Added Group Policy
+- Added Create System Restore Point
+- Added Classic Control Panel
+- Added User Accounts (Netplwiz)
 ---
 
 
