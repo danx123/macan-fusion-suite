@@ -15,14 +15,14 @@ Designed with performance, stability, and modularity in mind, each component in 
 ## 📸 Screenshot
 <img width="2048" height="2665" alt="macan-fusion-suite" src="https://github.com/user-attachments/assets/f5d9bb00-2967-42f8-99b8-15e7e82c370e" />
 ---
-## Changelog v2.7.0
-1. Macan Mystic Downloader v6.5.0 - 7.0.0
-
-Added Top Status Bar: Displays "Total URLs", "Progress", and "Elapsed Time" at the very top of the window.
-Timer Logic: Ported the QTimer logic from the premium version. The timer starts when you click "Launch Downloader".
-Item Counting: Added logic to count the number of non-empty lines in the text box to calculate "Total Items".
-English Translation: Translated all UI text, buttons, and messages from Indonesian to English.
-Layout Update: Changed the main layout to a Vertical layout to accommodate the new status bar at the top, while keeping the original 2-panel design below it.
+## Changelog v3.2.0
+Update Framework
+- Macan Converter Pro v5.0.0 - 5.2.0 
+  (Added GPU Rendering - Update Framework)
+- Macan Conquer v4.2.0 - 4.4.0
+- Macan Explorer v3.0.0 - 3.2.0
+- Macan Mystic Downloader v7.0.0 - 7.2.0
+- Macan VLC v4.0.0 - 4.2.0
 ---
 
 
