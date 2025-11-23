@@ -15,14 +15,9 @@ Designed with performance, stability, and modularity in mind, each component in 
 ## 📸 Screenshot
 <img width="2048" height="2665" alt="macan-fusion-suite" src="https://github.com/user-attachments/assets/f5d9bb00-2967-42f8-99b8-15e7e82c370e" />
 ---
-## Changelog v3.2.0
-Update Framework
-- Macan Converter Pro v5.0.0 - 5.2.0 
-  (Added GPU Rendering - Update Framework)
-- Macan Conquer v4.2.0 - 4.4.0
-- Macan Explorer v3.0.0 - 3.2.0
-- Macan Mystic Downloader v7.0.0 - 7.2.0
-- Macan VLC v4.0.0 - 4.2.0
+## Changelog v3.3.0
+1. Macan Converter Pro v5.2.0 - 5.4.0
+   Update Engine (pypdfium2)
 ---
 
 
