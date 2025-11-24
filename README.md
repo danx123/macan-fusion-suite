@@ -15,9 +15,9 @@ Designed with performance, stability, and modularity in mind, each component in 
 ## 📸 Screenshot
 <img width="2048" height="2665" alt="macan-fusion-suite" src="https://github.com/user-attachments/assets/f5d9bb00-2967-42f8-99b8-15e7e82c370e" />
 ---
-## Changelog v3.3.0
-1. Macan Converter Pro v5.2.0 - 5.4.0
-   Update Engine (pypdfium2)
+## Changelog v3.4.0
+1.Macan VLC v4.2.0 - 4.3.0
+- Added dynamic tooltip (volume)
 ---
 
 
