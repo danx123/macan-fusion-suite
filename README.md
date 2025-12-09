@@ -15,12 +15,10 @@ Designed with performance, stability, and modularity in mind, each component in 
 ## 📸 Screenshot
 <img width="2048" height="2665" alt="macan-fusion-suite" src="https://github.com/user-attachments/assets/f5d9bb00-2967-42f8-99b8-15e7e82c370e" />
 ---
-## Changelog v3.6.0
-1. Macan Conquer v4.4.0 - 4.5.0
-   - Fixed UI Layout
-
-2. Macan Converter Pro v5.4.0 - 5.5.0
-   - Update Engine (ffmpeg)
+## Changelog v3.6.1
+Update macan engine:
+1. Macan Mystic Downloader
+2. Macan VLC
 ---
 
 
