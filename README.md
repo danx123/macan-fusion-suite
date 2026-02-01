@@ -15,18 +15,8 @@ Designed with performance, stability, and modularity in mind, each component in 
 ## 📸 Screenshot
 <img width="2048" height="2665" alt="macan-fusion-suite" src="https://github.com/user-attachments/assets/f5d9bb00-2967-42f8-99b8-15e7e82c370e" />
 ---
-## Changelog v4.0.0
-1. Macan Converter Pro v6.0.0
-- Added Mutagen to extract cover art (audio converter)
-- Update engine (ffmpeg) latest version
-- Update library
 
-2. Macan Explorer v3.3.0
-- Update Library
 
-3. Macan VLC
-- Update Library
----
 
 
 ## 💼 Core Components  
